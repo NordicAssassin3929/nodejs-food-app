@@ -25,7 +25,7 @@ var User = function(user) {
     this.app_user_info_id = user.app_user_info_id;
 };
 
-User.getuserinfo = function(id, result) {
+User.getuserinfo = function(result) {
     sql.query('' +
         'SELECT app_user.email, app_user_info.first_name, app_user_info.last_name,\n' +
         'app_user_info.dob, address.street, address.house_num, city.city_name,\n' +
@@ -34,7 +34,7 @@ User.getuserinfo = function(id, result) {
         'JOIN address ON app_user_info.app_user_info_id = address.app_user_info_id\n' +
         'JOIN city ON address.city_id = city.city_id\n' +
         'JOIN phone_number ON app_user_info.app_user_info_id = phone_number.app_user_info_id\n' +
-        'WHERE app_user.app_user_id = ?', id,(err, res) => {
+        'WHERE app_user.app_user_id = 2', (err, res) => {
         return err ? result(null, err) : result(null, res);
     });
 };

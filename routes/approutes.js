@@ -30,8 +30,8 @@ module.exports = function(app) {
         .get(commentcontroller.getcomment)
         .put(commentcontroller.editcomment)
         .delete(commentcontroller.deletecomment);
-    app.route('/userinfo/:id')
+    app.route('/userinfo')
         .get(controller.getuserinfo);
-    app.route('/myorder/:id')
+    app.route('/myorder')
         .get(controller.getmyorder);
 };

@@ -4,6 +4,7 @@ var Order = function(order) {
     this.app_user_id = order.app_user_id;
     this.order_time = order.order_time;
     this.note = order.note;
+    this.item_id = order.item_id;
 };
 
 Order.getorders = function(result) {

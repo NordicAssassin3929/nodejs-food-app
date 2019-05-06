@@ -10,13 +10,13 @@ var User = require('../model/user');
 var MyOrder = require('../model/myorder');
 
 exports.getuserinfo = function(req, res) {
-    User.getuserinfo(req.params.id,(err, item) => {
-        return err ? res.send(err) : res.send(item);
+    User.getuserinfo((err, userinfo) => {
+        return err ? res.send(err) : res.send(userinfo);
     });
 };
 
 exports.getmyorder = function(req, res) {
-    MyOrder.getmyorder(req.params.id,(err, order) => {
+    MyOrder.getmyorder((err, order) => {
         return err ? res.send(err) : res.send(order);
     });
 };
