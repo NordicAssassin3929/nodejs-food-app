@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79064e6-d5a6-452c-ab32-8e80f0d275e7" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/user/user.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/user/user.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/user/user.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/commentcontroller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/commentcontroller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/myorder.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/myorder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/order.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/comment/comment.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/comment/comment.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/comment/comment.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/comment/comment.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/item-detail/item-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/item-detail/item-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/item-detail/item-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/item-detail/item-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/item/item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/item/item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/item/item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/item/item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/order/order.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/order/order.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/components/order/order.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/components/order/order.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/angular-demo/src/app/services/api.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/angular-demo/src/app/services/api.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/approutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/approutes.js" afterDir="false" />
-    </list>
+    <list default="true" id="b79064e6-d5a6-452c-ab32-8e80f0d275e7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/comment.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/commentcontroller.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -234,7 +202,7 @@
       <workItem from="1556880030026" duration="170000" />
       <workItem from="1556917218457" duration="748000" />
       <workItem from="1557158007826" duration="181000" />
-      <workItem from="1557171865154" duration="186000" />
+      <workItem from="1557171865154" duration="472000" />
     </task>
     <task id="LOCAL-00001" summary="y">
       <created>1556554745428</created>
@@ -250,11 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556644621317</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1557173011913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557173011913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105677000" />
+    <option name="totallyTimeSpent" value="105963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,7 +243,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2977369" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2977369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -283,7 +258,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3231198" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3231198" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -294,7 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="y" />
-    <option name="LAST_COMMIT_MESSAGE" value="y" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/angular-demo/node_modules/bootstrap/dist/css/bootstrap.css">
