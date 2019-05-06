@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79064e6-d5a6-452c-ab32-8e80f0d275e7" name="Default Changelist" comment="" />
+    <list default="true" id="b79064e6-d5a6-452c-ab32-8e80f0d275e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
@@ -94,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,11 +105,15 @@
               <item name="node-express-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-express-demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="node-express-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-express-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,14 +127,15 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/public/angular-demo/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/angular-demo/src/app/components/item" />
-      <recent name="$PROJECT_DIR$/public/angular-demo/src/app" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/angular-demo/src/app/components" />
       <recent name="$PROJECT_DIR$/public/angular-demo/src/app/services" />
       <recent name="$PROJECT_DIR$/db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/angular-demo/src/app/components/item" />
+      <recent name="$PROJECT_DIR$/public/angular-demo/src/app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,6 +191,7 @@
       <workItem from="1556917218457" duration="748000" />
       <workItem from="1557158007826" duration="181000" />
       <workItem from="1557171865154" duration="624000" />
+      <workItem from="1557173459548" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="y">
       <created>1556554745428</created>
@@ -215,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106115000" />
+    <option name="totallyTimeSpent" value="107136000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,7 +237,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2977369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -236,7 +246,7 @@
       <window_info anchor="bottom" id="TypeScript" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3286908" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -244,7 +254,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3231198" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.321727" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
